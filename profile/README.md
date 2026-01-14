@@ -5,7 +5,7 @@
   
   <p>
     We are a technology innovation hub focused on building digital solutions that solve local problems with global standards.
-    From cultural preservation to AI-powered tools, we code with purpose.
+    From cultural preservation to financial tools, we code with purpose.
   </p>
 
   <a href="https://visitarewa.com">
@@ -22,15 +22,16 @@
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[Visit Arewa](https://github.com/Veyrix-Technologies/visitarewa)** | 🇳🇬 The open-source digital guide to Northern Nigeria's culture and tourism. | `Next.js` `Tailwind` `Open Source` |
-| **Novetiv** | 🤖 AI Social Media Copilot for content creators. | `AI` `Automation` |
-| **XM Yola Data** | 📱 Local data top-up utility for Adamawa State. | `Mobile` `Utility` |
+| **[Visit Arewa](https://github.com/Veyrix-Technologies/visitarewa)** | 🇳🇬 The open-source digital guide to Northern Nigeria's culture and tourism. | `Next.js` `Open Source` |
+| **XM Yola Data** | 📲💻 A complete VTU ecosystem available on both **Web & Mobile** for seamless top-ups in Adamawa. | `Flutter` `React` `Web/Mobile` |
+| **Fundit** | 💳 A smart VTU and financial utility app for instant airtime, data, and bill payments. | `Fintech` `VTU` |
+| **MusicX** | 🎵 A modern, lightweight media player built for the ultimate audio experience. | `Mobile` `Audio` |
 
 <br />
 
 ### 🛠 Technologies We Use
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,flutter,firebase,git,github" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,flutter,kotlin,android,firebase,git,github,java" />
 </p>
 
 <br />
