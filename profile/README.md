@@ -31,7 +31,7 @@
 
 ### 🛠 Technologies We Use
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,flutter,kotlin,android,firebase,git,github,java" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,flutter,kotlin,androidstudio,firebase,git,github,java" />
 </p>
 
 <br />
